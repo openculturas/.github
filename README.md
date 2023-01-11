@@ -22,7 +22,7 @@ Visit the dedicated website at <a href="https://www.openculturas.org/en">www.ope
 
 ## Technology
 
-OpenCulturas is a <a href="https://www.drupal.org/node/3321602">Drupal distribution</a>, i. e. a Drupal core system with quite some well-established contributed modules, an established contributed back-end theme. On top there's a custom front-end theme and a bit of custom code that was necessary for the distribution. We follow conding standards and contribute wherever useful + possible.
+OpenCulturas is a <a href="https://www.drupal.org/node/3321602">Drupal distribution</a>, i. e. a Drupal core system with quite some well-established contributed modules, an established contributed back-end theme. On top there's a custom front-end theme and a bit of custom code that was necessary for the distribution. We follow coding standards and contribute wherever useful + possible.
 
 External dependencies (for example, <a href="/openstreetmap">OpenStreetMap</a> or <a href="/dynamicweb/swiffy-slider">Swiffy Slider</a>) are managed by dedicated modules, using composer. 
 
