@@ -3,7 +3,7 @@
 <img src="openculturas-logo-200w.svg" align="right" width="320" alt="logo with rainbow-colored crown icon and typo Open Culturas">
 OpenCulturas is a <a href="https://www.drupal.org">Drupal</a> distribution built as a pre-configured platform for cultural-focused communities. 
 
-The organization behind it is a like-named non-profit association (foundation process ongoing) with the objective to foster the digital empowerment of actors in the cultural field.
+The organization behind it is a like-named non-profit association founded in 2023 with the objective to foster the digital empowerment of actors in the cultural field.
 
 The platform includes the following:
 <ul>
